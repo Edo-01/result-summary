@@ -73,7 +73,7 @@ function App() {
                 className="bg-[#FFF6F5] w-full rounded-lg p-[15px] flex justify-between mb-[15px] last-of-type:mb-[0px]"
               >
                 <div className="flex">
-                  <img className="mr-3" src={"src" + obj.icon} alt="" />
+                  <img className="mr-3" src={obj.icon} alt="" />
                   <p style={colore} className="font-medium">
                     {obj.category}
                   </p>

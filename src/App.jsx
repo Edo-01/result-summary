@@ -13,7 +13,7 @@ function App() {
 
   return (
     <>
-      <div className="w-full bg-white md:rounded-2xl md:shadow-2xl md:w-[740px] md:flex md:flex-row md:flex-nowrap ">
+      <div className="w-full bg-white md:rounded-2xl md:shadow-2xl md:w-[740px] md:flex md:flex-row md:flex-nowrap m-auto md:mt-[100px]">
         <div
           className="text-white bg-gradient-to-b from-[#6743FF] to-[#312CEA] 
         rounded-br-xl rounded-bl-xl px-[75px] pt-7 pb-10 flex flex-col items-center justify-center md:w-1/2"

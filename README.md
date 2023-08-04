@@ -1,0 +1,1 @@
+# Results summary component solution
